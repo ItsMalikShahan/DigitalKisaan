@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393395711522",
+    "project_id": "digital-kasaan",
+    "storage_bucket": "digital-kasaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393395711522:android:b8446af86d4ddea2aa647b",
+        "android_client_info": {
+          "package_name": "com.sortscript.digitalkasaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393395711522-lkcmrr79s55b6alhfp048a0p4nivtcuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtM8T0VQrWwYf95FZJ70CXLnNXR8o-BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393395711522-lkcmrr79s55b6alhfp048a0p4nivtcuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

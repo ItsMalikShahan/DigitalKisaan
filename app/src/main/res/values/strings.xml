@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Digital Kasaan</string>
+    <string name="already_have_an_account">Already have an account? <font fgcolor='#4CBB3F'><b>Login</b></font></string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? <font fgcolor='#4CBB3F'><b>Register Now</b></font></string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
